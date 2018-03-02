@@ -1,0 +1,4 @@
+#Thu Mar 01 04:07:13 BRT 2018
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\Pokedex\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
