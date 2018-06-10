@@ -1,7 +1,7 @@
 ![logo](https://github.com/julianotech/DictionaryAwesome/blob/master/stanford.png)
 
 # :video_game: Pokedex
-This is my eighth android project following the instructions of Marty Stepp from Stanford University,
+Android project following the instructions of Marty Stepp from Stanford University,
 course CS 193A: Android App Development, Winter 2017. https://web.stanford.edu/class/cs193a/index.shtml
 
 ![Screenshot](https://github.com/julianotech/Pokedex/blob/master/screenshot.png)
