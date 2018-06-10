@@ -8,7 +8,7 @@ course CS 193A: Android App Development, Winter 2017. https://web.stanford.edu/c
 
 # ❤ Motivation
 
-Since I have finished my first information technology university I was thinking to become a developer so, I used to work too much and now I finally have decided to start this dream.
+Since I have finished the university I was thinking to become a developer, so finally, I have decided to start learning more about programming.
 
 # ⚠ Prerequisites
 
